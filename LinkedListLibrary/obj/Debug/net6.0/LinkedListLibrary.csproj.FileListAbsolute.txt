@@ -1,0 +1,15 @@
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\bin\Debug\net6.0\LinkedListLibrary.exe
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\bin\Debug\net6.0\LinkedListLibrary.deps.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\bin\Debug\net6.0\LinkedListLibrary.runtimeconfig.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\bin\Debug\net6.0\LinkedListLibrary.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\bin\Debug\net6.0\LinkedListLibrary.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\obj\Debug\net6.0\LinkedListLibrary.csproj.AssemblyReference.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\obj\Debug\net6.0\LinkedListLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\obj\Debug\net6.0\LinkedListLibrary.AssemblyInfoInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\obj\Debug\net6.0\LinkedListLibrary.AssemblyInfo.cs
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\obj\Debug\net6.0\LinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\obj\Debug\net6.0\LinkedListLibrary.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\obj\Debug\net6.0\refint\LinkedListLibrary.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\obj\Debug\net6.0\LinkedListLibrary.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\obj\Debug\net6.0\LinkedListLibrary.genruntimeconfig.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\Lists\LinkedListLibrary\LinkedListLibrary\obj\Debug\net6.0\ref\LinkedListLibrary.dll
