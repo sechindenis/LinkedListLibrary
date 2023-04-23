@@ -77,7 +77,7 @@ namespace LinkedListLibrary
 
         public int Length { get; private set; }
 
-        // 1. Adding value to the end
+        // 1. Adding a value to the end
         public void Add(int value)
         {
             if (Length != 0)
@@ -94,7 +94,7 @@ namespace LinkedListLibrary
             }
         }
 
-        // 2. Adding array of values to the end
+        // 2. Adding an array of values to the end
         public void Add(int[] values)
         {
             if (values is null)
@@ -121,7 +121,7 @@ namespace LinkedListLibrary
             Length += values.Length;
         }
 
-        // 3. Inserting value by index (to the beginning - by index 0)
+        // 3. Inserting a value by index (to the beginning - by index 0)
         public void InsertAt(int index, int value)
         {
             if (Length != 0)
@@ -160,7 +160,7 @@ namespace LinkedListLibrary
             }
         }
 
-        // 4. Inserting array of values by index (to the beginning - by index 0)
+        // 4. Inserting an array of values by index (to the beginning - by index 0)
         public void InsertAt(int index, int[] values)
         {
             if (values is null)
@@ -316,7 +316,7 @@ namespace LinkedListLibrary
             return true;
         }
 
-        // 9. The first index by value
+        // 9. The first index by a value
         public int GetIndexByValue(int value)
         {
             int index = -1;
@@ -361,7 +361,7 @@ namespace LinkedListLibrary
             }
         }
 
-        // 11. Looking for the maximum value
+        // 11. Search for the maximum value
         public int FindMaxValue()
         {
             if (Length == 0)
@@ -385,7 +385,7 @@ namespace LinkedListLibrary
             return maxValue;
         }
 
-        // 12. Looking for the minimum value
+        // 12. Search for the minimum value
         public int FindMinValue()
         {
             if (Length == 0)
@@ -409,7 +409,7 @@ namespace LinkedListLibrary
             return minValue;
         }
 
-        // 13. Looking for the index of the maximum value
+        // 13. Search for the index of the maximum value
         public int FindMaxValueIndex()
         {
             if (Length == 0)
@@ -437,7 +437,7 @@ namespace LinkedListLibrary
             return maxIndex;
         }
 
-        // 14. Looking for the index of the minimum value
+        // 14. Search for the index of the minimum value
         public int FindMinValueIndex()
         {
             if (Length == 0)
@@ -585,7 +585,7 @@ namespace LinkedListLibrary
             }
         }
 
-        // 21. Removing first with value
+        // 21. Removing the first with a value
         public int RemoveFirstWithValue(int value)
         {
             int index = 0;
@@ -650,7 +650,7 @@ namespace LinkedListLibrary
             return index;
         }
 
-        // 22. Removing all with value
+        // 22. Removing each with a value
         // nice, but not efficient
         public int RemoveAllWithValue_tmp(int value)
         {
